@@ -52,5 +52,5 @@ def radiantodegree():
     elif p == 14:
         print(d)
     else:
-        print("Nilai yang dimasukkan tidak diterima")
+        print("The inserted value not accepted")
 radiantodegree()
