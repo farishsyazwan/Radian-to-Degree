@@ -1,7 +1,7 @@
 # Radian to Degree
 This Pyton script will convert Radian to degree value.
 
-This is my first Python script that has more than 50 lines. Yes, I'm a noob. I also don't have idea how to use GitHub
+This is my first Python script that has more than 50 lines. Yes, I'm a noob. Also I don't have idea how to use GitHub
 
 Run this Python script however you like. If you don't know how, refer to YouTube.
 
